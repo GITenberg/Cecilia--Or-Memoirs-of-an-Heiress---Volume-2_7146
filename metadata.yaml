@@ -1,0 +1,31 @@
+_repo: Cecilia--Or-Memoirs-of-an-Heiress---Volume-2_7146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - D'Arblay, Frances Burney
+    - Burney, Frances
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Burney
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Cecilia; Or, Memoirs of an Heiress — Volume 2
+url: http://www.gutenberg.org/ebooks/7146
